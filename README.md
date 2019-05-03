@@ -11,3 +11,5 @@ This project aims to predict price movement of a designated stock during a fixed
 ### Content:
 
 ./Output_CSV: after doing preprocessing and spliting train and test set, write out original data as csv files 
+
+Other jupyter notebook files in base directory: preprocessing file, baseline model, and four neural networks models
